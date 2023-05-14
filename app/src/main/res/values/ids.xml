@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="title" type="id" />
+    <item name="description" type="id" />
+    <item name="update_note" type="id" />
+    <item name="delete_note" type="id" />
+    <item name="mLayout" type="id" />
+</resources>
